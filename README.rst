@@ -6,7 +6,7 @@ Control Course in Python
 Notebooks
 ========
 
-Additionally, you can refer to examples in the `respective folder <notebooks/>`_.
+Additionally, you can refer to examples in the `respective folder <Notebooks/>`_.
 
 
 License
