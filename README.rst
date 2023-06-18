@@ -22,11 +22,11 @@ If you find my Control Notebooks to be useful, please consider citing it in your
 
 .. code-block:: python
 
-    @misc{Curso-Controle,
+    @misc{Control_Course,
       author = {Nicolas Spogis},
       title = {Control Course in Python},
       subtitle = {A Control Course in Python},
-      note = "https://github.com/Spogis/Curso-Controle/tree/main",
+      note = "https://github.com/Spogis/Control_Course",
       year = {2023},
     }
 
