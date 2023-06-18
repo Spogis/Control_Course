@@ -1,8 +1,7 @@
 Control Course in Python
 =======
 
-..
-   .. image:: assets/logo.png
+.. image:: assets/logo.png
 
 Notebooks
 ========
