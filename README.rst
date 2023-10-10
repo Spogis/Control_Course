@@ -1,4 +1,4 @@
-Control Course in Python
+Control Course with Python
 =======
 
 .. image:: assets/logo.png
